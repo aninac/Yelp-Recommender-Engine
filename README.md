@@ -4,3 +4,15 @@
 
 <h3>Data Source</h3>
 <p>Yelp has a subset of their user data available to the general public for challenges and other academic purposes. This data can be downloaded from their website and comprises data from 10 metropolitan areas across two countries. There are six json files with information about businesses, reviews, and users.</p>
+
+<h3>Methodology</h3>
+
+Step 1: Data Wrangling - Imported six json files into pandas DataFrame, converted to csv files and imported into a PostgreSQL database. Created queries to aggregate and summarize data and import back into pandas DataFrame.
+
+Step 2: Exploratory Data Analysis - Visualized data with charts and graphs to uncover insights about the data.
+
+Step 3: Machine Learning - Tested four algorithms before developing and tuning parameters of one algorithm.
+
+<h3>Repository Contents</h3>
+<p>Final project results are in the 08 Prediction of Home Foreclosure.docx, 08 Prediction of Home Foreclosure Slides.pptx and 08 Prediction Code.py files. All other files are supporting documents in order of completion.</p>
+
