@@ -14,5 +14,5 @@ Step 2: Exploratory Data Analysis - Visualized data with charts and graphs to un
 Step 3: Machine Learning - Tested four algorithms before developing and tuning parameters of one algorithm.
 
 <h3>Repository Contents</h3>
-<p>Final project results are in the 08 Prediction of Home Foreclosure.docx, 08 Prediction of Home Foreclosure Slides.pptx and 08 Prediction Code.py files. All other files are supporting documents in order of completion.</p>
+<p>Final project results are in the 08 Yelp Recommender Engine Report.docx, 08 Yelp Recommender Engine Slides.pptx and three Jupyter files. All other files are supporting documents in order of completion.</p>
 
